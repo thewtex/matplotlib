@@ -434,7 +434,7 @@ def figure(num=None,  # autoincrement if None, else integer from 1-N
     Parameters
     ----------
 
-    num : integer or string, optional, default: none
+    num : integer or string, optional, default: None
         If not provided, a new figure will be created, and the figure number
         will be incremented. The figure objects holds this number in a `number`
         attribute.
